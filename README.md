@@ -11,6 +11,6 @@ A simple snake game in java.
 * Java runtime installed
 #### How to play the game:
 
-* Just download the SnakeGame.jar file
+* Just download the Snake.jar file
 * Run it 
 
